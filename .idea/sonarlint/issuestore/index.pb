@@ -1,26 +1,8 @@
 
-W
-'src/main/java/command/TurnItAllOff.java,3\4\34445e5d5c224a3817fe97e08e3451adadc82aba
-S
-#src/main/java/command/TurnTVOn.java,4\b\4b9e524258a34c60d3868eca249e22b2bf0bd57f
-Y
-)src/main/java/command/PlayWithRemote.java,4\4\44fe66dab2ab36ec4c8944c1c0d109210ea9e9c1
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 T
 $src/main/java/controller/Course.java,b\d\bd7c44c3724aa18e8ce8026bce38b468b80f2144
-S
-#src/main/java/command/TurnTVUp.java,7\4\74eec2d992a0cd13072ea319f8cdaad58c1801cd
-T
-$src/main/java/command/TurnTVOff.java,3\e\3e24ca6ba91f6657d1420e972861efe0e18ad52c
-U
-%src/main/java/command/Television.java,9\0\90169e03c39fe9e3328953768d17d18cd615687b
-R
-"src/main/java/command/Command.java,0\5\0598fc46caab0ea8e5ed30956b47574d612c694f
-W
-'src/main/java/command/DeviceButton.java,b\5\b5026f3c182d6e8d08ad90b194dfe9b357f9d6fb
-[
-+src/main/java/command/ElectronicDevice.java,4\e\4e8657724bb543a1ef1bfc34096d03694a1a3b3e
 P
  src/main/java/prototype/Elf.java,f\b\fbd2a32eff3dae0bd7f73f4260948ae3967a6a8f
 S

@@ -1,5 +1,6 @@
 package command;
 
+// Interface used to create all my receivers
 public interface ElectronicDevice {
 
     public void on();

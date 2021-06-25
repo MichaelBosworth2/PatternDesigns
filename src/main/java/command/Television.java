@@ -1,5 +1,6 @@
 package command;
 
+// Receiver
 public class Television implements ElectronicDevice {
 
     private int volume = 0;

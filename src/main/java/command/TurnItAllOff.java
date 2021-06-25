@@ -2,8 +2,10 @@ package command;
 
 import java.util.List;
 
+// Concrete Command
 public class TurnItAllOff implements Command {
 
+    // Select which list of devices to perform this command on
     List<ElectronicDevice> theDevices;
 
     public TurnItAllOff(List<ElectronicDevice> newDevices) {

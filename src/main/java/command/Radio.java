@@ -1,5 +1,6 @@
 package command;
 
+// Another receiver
 public class Radio implements ElectronicDevice {
 
     private int volume = 0;

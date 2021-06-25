@@ -1,7 +1,9 @@
 package command;
 
+// Concrete Command
 public class TurnTVOn implements Command {
 
+    // Select which device to perform this command on
     ElectronicDevice theDevice;
 
     public TurnTVOn(ElectronicDevice newDevice) {

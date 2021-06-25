@@ -1,5 +1,6 @@
 package command;
 
+// Invoker
 public class DeviceButton {
 
     Command theCommand;
